@@ -12,4 +12,4 @@ export {
   RequestTimeoutError,
   // Error helpers
   isNotionClientError,
-} from "./errors"
+} from "./errors.ts"
